@@ -138,11 +138,13 @@
 	"PSLDiscordBot.Core.Common.OptionsIndexOptionName": "存档索引",
 	"PSLDiscordBot.Core.Common.OptionsSongSearchOptionDescription": "搜索字符串，您可以放入曲目id，名称，或者昵称。",
 	"PSLDiscordBot.Core.Common.OptionsSongSearchOptionName": "搜索",
-	"PSLDiscordBot.Core.Common.SaveHandlerOnHttpClientTimeout": "非常好网络，使我网络延迟旋转！请使用/ping指令确认网络可靠性。",
+	"PSLDiscordBot.Core.Common.SaveHandlerOnHttpClientTimeout": "非常好网络，使我网络延迟旋转！请使用/ping指令确认网络可靠性。\r\n完整错误：",
+	"PSLDiscordBot.Core.Common.SaveHandlerOnLocalSaveMissing": "错误：您的帐号没有任何已导入的存档。",
 	"PSLDiscordBot.Core.Common.SaveHandlerOnNoSaves": "错误：云端上没有任何存档，请确认您是否使用错误的账号及是否已同步。",
-	"PSLDiscordBot.Core.Common.SaveHandlerOnOtherException": "错误：{0}\n您可以再试一次或者使用`/report-problem`将错误回传给管理员。",
+	"PSLDiscordBot.Core.Common.SaveHandlerOnOtherException": "错误：{0}\r\n您可以再试一次或者使用`/report-problem`将错误回传给管理员。",
 	"PSLDiscordBot.Core.Common.SaveHandlerOnOutOfRange": "参数错误：预期索引小于{0}，大于等于0，您输入了{1}。",
-	"PSLDiscordBot.Core.Common.SaveHandlerOnPhiLibJsonException": "错误：\n*请注意，这有时候代表着存档损坏。请再尝试一次或重新同步。*",
-	"PSLDiscordBot.Core.Common.SaveHandlerOnPhiLibUriException": "错误：\n*请注意，这有时候代表着存档损坏。请再尝试一次或重新同步。*",
+	"PSLDiscordBot.Core.Common.SaveHandlerOnPhiLibJsonException": "错误：{0}\r\n*请注意，这有时候代表着存档损坏。请再尝试一次或重新同步。*",
+	"PSLDiscordBot.Core.Common.SaveHandlerOnPhiLibUriException": "错误：{0}\r\n*请注意，这有时候代表着存档损坏。请再尝试一次或重新同步。*",
+	"PSLDiscordBot.Core.Common.SaveHandlerOnWrongAccountMode": "错误：您目前的帐号模式（云端/导入）无法使用本指令。",
 	"PSLDiscordBot.Core.Common.ScoreFormatterUserRksIntro": "您的rks：{0}"
 }
