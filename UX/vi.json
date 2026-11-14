@@ -58,7 +58,6 @@
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZName": "màn_chơi_pez",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpDescription": "Hiện hướng dẫn sử dụng.",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpName": "trợ-giúp",
-	"PSLDiscordBot.Core.Command.Global.Guest.LoginOptionIsInternationalDescription": "Kiểm tra xem có cần dùng server quốc tế không",
 	"PSLDiscordBot.Core.Command.Global.Guest.LoginOptionIsInternationalName": "is_international",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingDescription": "Kiểm tra tính khả dụng của những dịch vụ trọng tâm.",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingName": "ping",
