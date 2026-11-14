@@ -1,4 +1,7 @@
 {
+	"PSLDiscordBot.Core.Command.Global.Account.AccountDeleteDescription": "永久刪除您的帳戶以及資料。",
+	"PSLDiscordBot.Core.Command.Global.Account.AccountDeleteSuccess": "您的帳號已被刪除。",
+	"PSLDiscordBot.Core.Command.Global.Account.AccountDeleteWarning": "警告：這將永久刪除您的帳號，包含設定、排行榜、以及任何存檔資料（即使並不處於使用中狀態）。點擊確認以繼續。",
 	"PSLDiscordBot.Core.Command.Global.Alias.ModifyGlobalDescription": "增加或移除全局歌曲昵稱",
 	"PSLDiscordBot.Core.Command.Global.Alias.ModifyServerDescription": "增加或移除這個伺服器的歌曲昵稱",
 	"PSLDiscordBot.Core.Command.Global.Alias.ModifyServerNotOwner": "您必須是該昵稱的創建者，才能為了這個伺服器移除該昵稱。",
