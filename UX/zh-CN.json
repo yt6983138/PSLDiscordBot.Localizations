@@ -17,7 +17,6 @@
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZDescription": "选择要加入pez的谱面。",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZName": "打包pez谱面",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpDescription": "显示帮助手册。",
-	"PSLDiscordBot.Core.Command.Global.Guest.LoginOptionIsInternationalDescription": "是否使用国际服",
 	"PSLDiscordBot.Core.Command.Global.Guest.LoginOptionIsInternationalName": "国际服",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingDescription": "确认网络可用性。",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingPingDone": "确认完成，结果：",
