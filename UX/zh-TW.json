@@ -20,7 +20,6 @@
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZDescription": "選擇要加入pez的譜面。",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZName": "打包pez譜面",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpDescription": "顯示幫助手冊。",
-	"PSLDiscordBot.Core.Command.Global.Guest.LoginOptionIsInternationalDescription": "是否使用國際服",
 	"PSLDiscordBot.Core.Command.Global.Guest.LoginOptionIsInternationalName": "國際服",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingDescription": "確認網路可用性。",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingPingDone": "確認完成，結果：",
