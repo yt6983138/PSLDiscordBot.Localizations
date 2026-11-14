@@ -58,7 +58,6 @@
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZName": "type_de_map_pez",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpDescription": "Afficher les manuels d'aide.",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpName": "help",
-	"PSLDiscordBot.Core.Command.Global.Guest.LoginOptionIsInternationalDescription": "Si le serveur international doit être utilisé ou non.",
 	"PSLDiscordBot.Core.Command.Global.Guest.LoginOptionIsInternationalName": "est_international",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingDescription": "Vérifier la disponibilité des services de base.",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingName": "ping",
