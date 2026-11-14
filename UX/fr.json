@@ -223,7 +223,7 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.GetTimeIndexName": "get-time-index",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardAccuracyTitle": "Précision moyenne ({0})",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardAverageScoreTitle": "Score moyen ({0})",
-	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardChallengeFormat": "{0.Rang} {0.Niveau}",
+	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardChallengeFormat": "{0.Rank} {0.Level}",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardChallengeRankTitle": "Rang de défi",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardCountTitle": "Nombre de réussites ({0})",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardDescription": "Affiche le classement.",
