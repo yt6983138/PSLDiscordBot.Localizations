@@ -122,7 +122,7 @@
 	"PSLDiscordBot.Core.Command.Global.Local.LocalProfileAvatarOptionDescription": "Known avatar id",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalProfileAvatarOptionName": "avatar",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalProfileAvatarUnknown": "That avatar is not in the known avatar list.",
-	"PSLDiscordBot.Core.Command.Global.Local.LocalProfileBackgroundOptionDescription": "Known background id",
+	"PSLDiscordBot.Core.Command.Global.Local.LocalProfileBackgroundOptionDescription": "Song name or id.",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalProfileBackgroundOptionName": "background",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalProfileBackgroundUnknown": "That background is not in the known background list.",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalProfileIntroOptionDescription": "New intro text",
