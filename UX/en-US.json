@@ -251,7 +251,7 @@
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestOptionCCFilterHigherBoundName": "cc_higher_bound",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestOptionCCFilterLowerBoundDescription": "Change the lower bound of scores' CC to show. Inclusive.",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestOptionCCFilterLowerBoundName": "cc_lower_bound",
-	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestOptionCountDescription": "Counts to show. (Default: 30, or set through /set-count-or-default)",
+	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestOptionCountDescription": "Counts to show. (Default: 30, or set through /settings show-count)",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestOptionCountName": "count",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestOptionDifficultiesToShowDescription": "Change what difficulties to show. Default: Show all. Use comma-separated list, ex. EZ, IN, Legacy.",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestOptionDifficultiesToShowName": "show_what_difficulties",
