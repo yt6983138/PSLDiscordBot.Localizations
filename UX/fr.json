@@ -65,7 +65,6 @@
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemOptionMessageDescription": "Décrivez le problème que vous avez rencontré.",
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemOptionMessageName": "message",
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemSuccess": "Merci pour votre signalement, votre signalement a été enregistré.",
-	"PSLDiscordBot.Core.Command.Global.Guest.SongInfoName": "song-info",
 	"PSLDiscordBot.Core.Command.Global.Guest.TOSAgreeButtonLabel": "J'accepte",
 	"PSLDiscordBot.Core.Command.Global.Guest.TOSName": "tos",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalChallengeColorOptionDescription": "Couleur du rang de défi",
