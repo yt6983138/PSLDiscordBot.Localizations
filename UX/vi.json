@@ -278,7 +278,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "số-lượng-màn-hiển-thị",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityDescription": "Chọn xem điểm/chỉ số của bạn có công khai hay không.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityDescription": "Liệu rằng dữ liệu của bạn có công khai hay không",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityName": "visibility",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilitySuccess": "Đã thành công cài đặt riêng tư cho dữ liệu!",
 	"PSLDiscordBot.Core.Common.AdminCommandBasePermissionDenied": "Bạn không có quyền này",
 	"PSLDiscordBot.Core.Common.CommandBaseNotRegistered": "Bạn chưa đăng nhập/có token. Dùng `/account register qrcode` hoặc là `/account register token` trước nha (hoặc là `/account register local` để dùng dữ liệu lưu trên bot).",
