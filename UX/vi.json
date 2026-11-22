@@ -51,7 +51,6 @@
 	"PSLDiscordBot.Core.Command.Global.Cloud.CloudTimeIndexDateTitle": "Ngày ",
 	"PSLDiscordBot.Core.Command.Global.Cloud.CloudTimeIndexDescription": "Nhận chỉ số lưu trữ, dùng để tìm những bản lưu cũ trong nhiều câu lệnh khác.",
 	"PSLDiscordBot.Core.Command.Global.Cloud.CloudTimeIndexIndexTitle": "Chỉ số.",
-	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetName": "tải-tài-nguyên",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpDescription": "Hiện hướng dẫn sử dụng.",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpName": "trợ-giúp",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingDescription": "Kiểm tra tính khả dụng của những dịch vụ trọng tâm.",
