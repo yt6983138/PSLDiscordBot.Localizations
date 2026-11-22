@@ -37,7 +37,6 @@
 	"PSLDiscordBot.Core.Command.Global.Account.AccountSwitchLocalDescription": "Switch to local mode, starting or resuming your local collection (keeps your cloud binding)",
 	"PSLDiscordBot.Core.Command.Global.Account.AccountSwitchLocalName": "local",
 	"PSLDiscordBot.Core.Command.Global.Alias.Global.Description": "Thêm hoặc bỏ biệt danh của 1 bài (quy mô toàn bộ)",
-	"PSLDiscordBot.Core.Command.Global.Alias.ModifyServerName": "alias-modify-server",
 	"PSLDiscordBot.Core.Command.Global.Alias.Server.Description": "Thêm hoặc bỏ biệt danh của 1 bài trong máy chủ (server) này",
 	"PSLDiscordBot.Core.Command.Global.Alias.Server.RemoveNotOwner": "Chỉ người đặt biệt danh cho bài này mới có thể loại bỏ biệt danh! Σ(-᷅_-᷄๑)",
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.MessageAlreadyAdded": "Rất tiếc, biệt danh này đã được thêm (toàn bộ/được thụ hưởng). Danh sách các biệt danh đã tồn tại:\r\n```\r\n{0:list:{}|\\n}\r\n```",
