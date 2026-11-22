@@ -68,7 +68,6 @@
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoSongSongNotPlayed": "その曲、まだプレイしてないみたい…やってみよ？(・∀・)",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionDescription": "スコア表示の小数点設定",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionOptionPrecisionDescription": "スコア表示の精度を設定するよ（例：99.1 か 99.12）",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountDescription": "/get-photo のデフォルト表示数をセット",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountDescription": "デフォルトの表示数を設定するよ〜。クラシックのb20風なら「20」でどうぞ",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "数量",
 	"PSLDiscordBot.Core.Common.AdminCommandBasePermissionDenied": "アクセス拒否されました〜(>_<)",
