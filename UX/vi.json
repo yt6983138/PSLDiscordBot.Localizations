@@ -243,7 +243,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.SetMemorableNoValidScore": "Điểm bạn đã nhập không có hoặc là không tồn tại!",
 	"PSLDiscordBot.Core.Command.Global.Normal.SetMemorableSuccess": "Đã chọn điểm yêu thích! Điểm của bạn là: ",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresDescription": "Tìm kết quả của một (vài) bài đã tìm.",
-	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresName": "điểm-màn-chơi",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresQueryResult": "Bạn đã tìm bài `{0}`, đang hiện...",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresQueryResultForOther": "Bạn đã tìm kiếm bài '{0}', cho '{1.User.GlobalName}', aka '{1.Data.UserInfo.NickName}'",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresSongNotPlayed": "Xin lỗi, bạn chưa chơi bài mà bạn đang tìm\n(Pro tip: cày phi nó đi ( •_•)>⌐■-■)",
