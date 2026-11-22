@@ -37,7 +37,6 @@
 	"PSLDiscordBot.Core.Command.Global.Account.AccountSwitchLocalDescription": "Démarrez ou reprenez votre collection locale (votre liaison cloud est conservée)",
 	"PSLDiscordBot.Core.Command.Global.Account.AccountSwitchLocalName": "local",
 	"PSLDiscordBot.Core.Command.Global.Alias.Global.Description": "Ajouter ou supprimer l'alias d'une chanson globalement",
-	"PSLDiscordBot.Core.Command.Global.Alias.ModifyGlobalName": "modifier_alias_global",
 	"PSLDiscordBot.Core.Command.Global.Alias.ModifyServerName": "modifier_alias_serveur",
 	"PSLDiscordBot.Core.Command.Global.Alias.Server.Description": "Ajouter ou supprimer un alias pour ce serveur",
 	"PSLDiscordBot.Core.Command.Global.Alias.Server.RemoveNotOwner": "Vous devez être la personne qui a ajouté l'alias pour le supprimer de ce serveur.",
