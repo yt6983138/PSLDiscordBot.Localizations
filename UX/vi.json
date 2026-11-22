@@ -264,7 +264,6 @@
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoSongQueryResultForOther": "Bạn đã tìm kiếm bài '{0}', cho '{1.User.GlobalName}', aka '{1.Data.UserInfo.NickName}'",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoSongSongNotPlayed": "Xin lỗi, bạn chưa chơi bài mà bạn đang tìm\n(Pro tip: cày phi nó đi ( •_•)>⌐■-■)",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearDescription": "Xóa điểm yêu thích hiện tại.",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearName": "xóa-điểm-yêu-thích",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearSuccess": "Đã xóa điểm yêu thích thành công!",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreDescription": "Chọn điểm màn chơi đáng nhớ để hiện khi dùng /get-scores",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreName": "chọn-điểm-yêu-thích",
