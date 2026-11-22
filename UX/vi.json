@@ -160,7 +160,6 @@
 	"PSLDiscordBot.Core.Command.Global.Local.LocalSubCommandCurrencyName": "currency",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalSubCommandProfileDescription": "Cập nhật các trường liên quan đến hồ sơ; các trường bị lược bỏ được lưu trữ",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalSubCommandProfileName": "profile",
-	"PSLDiscordBot.Core.Command.Global.Normal.AboutMeName": "thông-tin-cá-nhân",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionDescription": "Nhận thông tin về kho sưu tầm",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionGroupListDescription": "Liệt kê các vật phẩm",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionGroupListName": "list",
