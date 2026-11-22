@@ -14,7 +14,6 @@
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionAliasToOperateName": "昵稱",
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionForSongDescription": "要增加或移除昵稱的歌曲。",
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionForSongName": "歌曲",
-	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionOperationDescription": "對該昵稱的操作。",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetDescription": "下載該曲目的素材。",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZDescription": "選擇要加入pez的譜面。",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZName": "打包pez譜面",
