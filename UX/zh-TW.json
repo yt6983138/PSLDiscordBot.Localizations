@@ -119,7 +119,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionDescription": "設定成績顯示精度。",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionOptionPrecisionDescription": "精度。（範例）放入1將顯示99.1，放入2將顯示99.12，以此類推。",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionOptionPrecisionName": "精度",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountDescription": "設定/get-photo預設的顯示數目。",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountDescription": "預設顯示數量。填入20以回退到經典b20顯示。",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "數量",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityDescription": "設定您的游玩記錄的可見性。",
