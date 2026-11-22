@@ -157,7 +157,6 @@
 	"PSLDiscordBot.Core.Command.Global.Local.LocalSubCommandCurrencyName": "devise",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalSubCommandProfileDescription": "Mettre à jour les champs du profil local ; les champs omis sont conservés",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalSubCommandProfileName": "profil",
-	"PSLDiscordBot.Core.Command.Global.Normal.AboutMeName": "about-me",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionDescription": "Obtenir les informations de la collection",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionGroupListDescription": "Lister les éléments",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionGroupListName": "liste",
