@@ -284,7 +284,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountDescription": "The default count going to be set. Put 20 for the classic b20 view.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "count",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityDescription": "Set whether your scores or statistics is visible to public or not.",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityName": "set-public-visibility",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityDescription": "Whether your data is visible to public or not.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityName": "visibility",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilitySuccess": "Your public visibility has been set successfully.",
