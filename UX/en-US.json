@@ -268,7 +268,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearDescription": "Clear the memorable score.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearSuccess": "Your memorable score has been cleared!",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreDescription": "Sets your memorable score, shown in /about-me.",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreName": "set-memorable-score",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreOptionScoreNumberDescription": "The score number shown in /get-scores, /get-photo, aka the Number column.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreOptionScoreNumberName": "score-number",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreOptionScoreThoughtsDescription": "Your thought about this score, like how you did it etc.",
