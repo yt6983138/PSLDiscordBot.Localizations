@@ -180,7 +180,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadItemName": "item",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipDescription": "Đưa ra mẹo (tips) ngẫu nhiên",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipName": "random-tip",
-	"PSLDiscordBot.Core.Command.Global.Normal.ExportScoresName": "hiện-điểm",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetMoneyName": "rút-tiền",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetScoresName": "lấy-điểm",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetTimeIndexName": "nhận-chỉ-số-thời-gian",
