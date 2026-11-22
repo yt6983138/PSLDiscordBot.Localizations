@@ -181,7 +181,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipDescription": "Đưa ra mẹo (tips) ngẫu nhiên",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipName": "random-tip",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetScoresName": "lấy-điểm",
-	"PSLDiscordBot.Core.Command.Global.Normal.GetTimeIndexName": "nhận-chỉ-số-thời-gian",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardAccuracyTitle": "Độ chính xác trung bình({0})",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardAverageScoreTitle": "Điểm trung bình ({0})",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardChallengeFormat": "{0.Rank} {0.Level}",
