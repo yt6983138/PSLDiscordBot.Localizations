@@ -178,7 +178,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipDescription": "Lire une astuce aléatoire",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipName": "astuce_aléatoire",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetScoresName": "get-scores",
-	"PSLDiscordBot.Core.Command.Global.Normal.GetTimeIndexName": "get-time-index",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardAccuracyTitle": "Précision moyenne ({0})",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardAverageScoreTitle": "Score moyen ({0})",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardChallengeFormat": "{0.Rank} {0.Level}",
