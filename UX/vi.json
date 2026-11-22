@@ -282,7 +282,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountDescription": "Số bài mặc định sắp chỉnh. Nhập 20 để hiện ảnh b20 cũ.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "số-lượng-màn-hiển-thị",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityDescription": "Chọn xem điểm/chỉ số của bạn có công khai hay không.",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityName": "set-public-visibility",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityDescription": "Liệu rằng dữ liệu của bạn có công khai hay không",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityName": "visibility",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilitySuccess": "Đã thành công cài đặt riêng tư cho dữ liệu!",
