@@ -119,7 +119,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "数量",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityDescription": "设置您的游玩记录的可见性。",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityDescription": "您的游玩记录是否可被其他人看到。",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityName": "可见性",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilitySuccess": "您的可见性已设置。",
 	"PSLDiscordBot.Core.Common.AdminCommandBasePermissionDenied": "权限不足。",
 	"PSLDiscordBot.Core.Common.CommandBaseTOSNotAgreed": "您尚未同意我们的服务条款。请使用`/tos`指令以阅览及同意。",
