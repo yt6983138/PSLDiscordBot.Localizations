@@ -266,7 +266,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearDescription": "Xóa điểm yêu thích hiện tại.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearSuccess": "Đã xóa điểm yêu thích thành công!",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreDescription": "Chọn điểm màn chơi đáng nhớ để hiện khi dùng /get-scores",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreName": "chọn-điểm-yêu-thích",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreOptionScoreNumberDescription": "Số các điểm hiện khi dùng /get-score và /get-photo, nói trắng ra là danh sách điểm.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreOptionScoreNumberName": "số-điểm",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreOptionScoreThoughtsDescription": "Để bình luận của bạn ở đây (như kiểu doumaaa choke ap cay vcđ)",
