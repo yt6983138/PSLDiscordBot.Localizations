@@ -48,7 +48,6 @@
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionAliasToOperateName": "alias",
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionForSongDescription": "Choix du morceau. Vous pouvez saisir son nom, son identifiant ou un autre alias.",
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionForSongName": "pour",
-	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionOperationDescription": "Opération à effectuer sur l'alias.",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetDescription": "Télécharger les ressources d'une musique.",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetName": "download-asset",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZDescription": "Sélectionner quelle map télécharger.",
