@@ -53,7 +53,6 @@
 	"PSLDiscordBot.Core.Command.Global.Cloud.CloudTimeIndexDateTitle": "Date",
 	"PSLDiscordBot.Core.Command.Global.Cloud.CloudTimeIndexDescription": "Get save indexes, used to fetch older saves in various commands.",
 	"PSLDiscordBot.Core.Command.Global.Cloud.CloudTimeIndexIndexTitle": "Index",
-	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetName": "download-asset",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpDescription": "Show help manuals.",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpName": "help",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingDescription": "Check the availability of the core services.",
