@@ -276,7 +276,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionDescription": "Làm tròn số hiển thị trên lệnh để chỉnh điểm.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionOptionPrecisionDescription": "Độ chính xác. Nhập 1 để hiển thị/làm tròn tới 1 chữ số thập phân, và tương tự như thế.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionOptionPrecisionName": "độ-chính-xác",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountDescription": "Chỉnh mặc định số bài hiện khi dùng /get-photo",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountName": "điều-chỉnh-số-điểm-hiển-thị",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountDescription": "Số bài mặc định sắp chỉnh. Nhập 20 để hiện ảnh b20 cũ.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "số-lượng-màn-hiển-thị",
