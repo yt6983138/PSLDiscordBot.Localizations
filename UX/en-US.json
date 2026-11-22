@@ -278,7 +278,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionDescription": "Set precision of value shown on commands that fetch your scores.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionOptionPrecisionDescription": "Precision. Put 1 to get acc like 99.1, 2 to get acc like 99.12, repeat.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionOptionPrecisionName": "precision",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountDescription": "Set the default show count for /get-photo.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountName": "set-show-count-default",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountDescription": "The default count going to be set. Put 20 for the classic b20 view.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "count",
