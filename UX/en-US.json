@@ -280,7 +280,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "count",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityDescription": "Set whether your scores or statistics is visible to public or not.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityDescription": "Whether your data is visible to public or not.",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityName": "visibility",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilitySuccess": "Your public visibility has been set successfully.",
 	"PSLDiscordBot.Core.Common.AdminCommandBasePermissionDenied": "Permission denied.",
 	"PSLDiscordBot.Core.Common.CommandBaseInternationalDiscontinued": "The international (Global) cloud save service has been discontinued, so this account can no longer be used. Use `/account register qrcode` or `/account register token` with a TapTap China account, or switch to local mode with `/account`. If you archived your save before, `/transfer-to-china` and `/local-import-archive` can still use it.",
