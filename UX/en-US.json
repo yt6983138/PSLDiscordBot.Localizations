@@ -52,7 +52,6 @@
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionForSongDescription": "For which song to operate, inputting a song's name, id, or other alias is allowed.",
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionForSongName": "for",
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionOperationDescription": "The operation to perform on the alias.",
-	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionOperationName": "operation",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetDescription": "Download assets about song.",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetName": "download-asset",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZDescription": "Select which chart to pack.",
