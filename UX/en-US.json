@@ -162,7 +162,6 @@
 	"PSLDiscordBot.Core.Command.Global.Local.LocalSubCommandCurrencyName": "currency",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalSubCommandProfileDescription": "Update local profile fields; omitted fields are kept",
 	"PSLDiscordBot.Core.Command.Global.Local.LocalSubCommandProfileName": "profile",
-	"PSLDiscordBot.Core.Command.Global.Normal.AboutMeName": "about-me",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionDescription": "Get collection info.",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionGroupListDescription": "List items.",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionGroupListName": "list",
