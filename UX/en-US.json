@@ -266,7 +266,6 @@
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoSongQueryResultForOther": "You looked for song `{0}`, showing for `{1.User.GlobalName}`, aka `{1.Data.UserInfo.NickName}`...",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoSongSongNotPlayed": "Sorry, you don't seem to have played the songs you are searching for.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearDescription": "Clear the memorable score.",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearName": "clear-memorable-score",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreClearSuccess": "Your memorable score has been cleared!",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreDescription": "Sets your memorable score, shown in /about-me.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreName": "set-memorable-score",
