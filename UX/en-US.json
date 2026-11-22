@@ -205,7 +205,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardRksTitle": "RKS",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardRowRankFormat": "#{0:calc(+1)}",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardTotalScoreTitle": "Total Score ({0})",
-	"PSLDiscordBot.Core.Command.Global.Normal.MoreRksName": "more-rks",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestDescription": "Get summary photo of your scores.",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestError": "Error occurred during uploading:",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestFailedParsingDifficulty": "Failed to parse showing difficulties. Valid values: {0}",
