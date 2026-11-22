@@ -51,7 +51,6 @@
 	"PSLDiscordBot.Core.Command.Global.Cloud.CloudTimeIndexDateTitle": "Date",
 	"PSLDiscordBot.Core.Command.Global.Cloud.CloudTimeIndexDescription": "Obtenir les index sauvegardés, permet d'utiliser les anciennes sauvegardes dans diverses commandes.",
 	"PSLDiscordBot.Core.Command.Global.Cloud.CloudTimeIndexIndexTitle": "Index",
-	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetName": "download-asset",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpDescription": "Afficher les manuels d'aide.",
 	"PSLDiscordBot.Core.Command.Global.Guest.HelpName": "help",
 	"PSLDiscordBot.Core.Command.Global.Guest.PingDescription": "Vérifier la disponibilité des services de base.",
