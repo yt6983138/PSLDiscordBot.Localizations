@@ -50,7 +50,6 @@
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionForSongDescription": "Xem bài được chọn có được phép tương tác, thêm tên bài, id hoặc các biệt danh khác.",
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionForSongName": "for",
 	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionOperationDescription": "Hành động thực hiện lên biệt danh được chọn",
-	"PSLDiscordBot.Core.Command.Global.Alias.Shared.OptionOperationName": "operation",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetDescription": "Tải tài nguyên của một bài.",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetName": "tải-tài-nguyên",
 	"PSLDiscordBot.Core.Command.Global.Guest.DownloadAssetOptionDownloadPEZDescription": "Chọn màn chơi để gói lại.",
