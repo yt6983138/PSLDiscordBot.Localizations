@@ -65,7 +65,6 @@
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemOptionMessageDescription": "Mô tả hoặc tường thuật lại vấn đề bạn gặp phải.",
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemOptionMessageName": "nhắn-tin",
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemSuccess": "Cảm ơn rất nhìu x100 vì đã báo cáo lỗi cho chúng mình, lỗi của bạn đã được ghi nhận.╰(*°▽°*)╯",
-	"PSLDiscordBot.Core.Command.Global.Guest.SongInfoName": "thông-tin-màn-chơi",
 	"PSLDiscordBot.Core.Command.Global.Guest.TOSAgreeButtonLabel": "Tôi đồng ý",
 	"PSLDiscordBot.Core.Command.Global.Guest.TOSAgreed": "Cảm ơn bạn vì sự hợp tác và đã đồng ý điều khoản{0:cond:|, dùng `/account register qrcode`, `/account register token` hoặc `/account register local` trong vòng 15 phút để sử dụng bot}.",
 	"PSLDiscordBot.Core.Command.Global.Guest.TOSContent": "Đọc điều khoản [ở đây](https://github.com/yt6983138/PSLDiscordBot/blob/master/Documentation/TermsOfServiceV3.md), khi đã xong rồi thì hãy nhấn nút `I consent` để đồng ý với Điều khoản sử dụng.",
