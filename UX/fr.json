@@ -272,7 +272,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountDescription": "Le nombre de scores par défaut qui sera défini. Entrez 20 pour la vue classique b20.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountOptionCountName": "nombre",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityDescription": "Définissez si vos scores ou statistiques sont visibles publiquement.",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityName": "visibilite_publique",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityDescription": "Définissez si vos données sont visibles publiquement.",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilityOptionVisibilityName": "visibilite",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsVisibilitySuccess": "Votre visibilité publique a été définie avec succès.",
