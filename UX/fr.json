@@ -177,7 +177,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadItemName": "élément",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipDescription": "Lire une astuce aléatoire",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipName": "astuce_aléatoire",
-	"PSLDiscordBot.Core.Command.Global.Normal.ExportScoresName": "export-scores",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetMoneyName": "get-money",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetScoresName": "get-scores",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetTimeIndexName": "get-time-index",
