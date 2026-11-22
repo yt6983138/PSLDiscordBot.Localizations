@@ -37,7 +37,6 @@
 	"PSLDiscordBot.Core.Command.Global.Account.AccountSwitchLocalDescription": "Switch to local mode, starting or resuming your local collection (keeps your cloud binding)",
 	"PSLDiscordBot.Core.Command.Global.Account.AccountSwitchLocalName": "local",
 	"PSLDiscordBot.Core.Command.Global.Alias.Global.Description": "Add or remove alias of a song globally",
-	"PSLDiscordBot.Core.Command.Global.Alias.ModifyGlobalName": "alias-modify-global",
 	"PSLDiscordBot.Core.Command.Global.Alias.ModifyServerName": "alias-modify-server",
 	"PSLDiscordBot.Core.Command.Global.Alias.Server.Description": "Add or remove alias of a song for this server",
 	"PSLDiscordBot.Core.Command.Global.Alias.Server.RemoveNotOwner": "You must be the one who added the alias to remove it for this server.",
