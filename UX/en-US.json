@@ -182,7 +182,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadItemName": "file",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipDescription": "Read a random tip.",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipName": "random-tip",
-	"PSLDiscordBot.Core.Command.Global.Normal.GetMoneyName": "get-money",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetScoresName": "get-scores",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetTimeIndexName": "get-time-index",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardAccuracyTitle": "Average Accuracy ({0})",
