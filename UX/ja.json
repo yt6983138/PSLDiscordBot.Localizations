@@ -14,7 +14,6 @@
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemOptionMessageName": "メッセージ",
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemSuccess": "報告ありがと〜！ちゃんと記録したよ！",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetScoresName": "get-scores",
-	"PSLDiscordBot.Core.Command.Global.Normal.MoreRksName": "more-rks",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestDescription": "Get summary photo of your scores.",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestError": "Error occurred during uploading:",
 	"PSLDiscordBot.Core.Command.Global.Photo.PhotoBestFailedParsingGrades": "Failed to parse showing grades. Valid values: {0}",
