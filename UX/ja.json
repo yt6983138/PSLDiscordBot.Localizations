@@ -15,7 +15,6 @@
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemOptionMessageName": "メッセージ",
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemSuccess": "報告ありがと〜！ちゃんと記録したよ！",
 	"PSLDiscordBot.Core.Command.Global.Guest.SongInfoDescription": "曲の情報を調べるよ！",
-	"PSLDiscordBot.Core.Command.Global.Normal.AboutMeName": "about-me",
 	"PSLDiscordBot.Core.Command.Global.Normal.ExportScoresDescription": "Export all your scores as a CSV file.",
 	"PSLDiscordBot.Core.Command.Global.Normal.ExportScoresName": "export-scores",
 	"PSLDiscordBot.Core.Command.Global.Normal.ExportScoresReply": "You have {0} scores, now exporting...",
