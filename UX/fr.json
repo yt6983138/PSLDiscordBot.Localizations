@@ -265,7 +265,6 @@
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreOptionScoreThoughtsDescription": "Votre commentaire sur ce score",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsMemorableScoreOptionScoreThoughtsName": "commentaire_score",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionDescription": "Définir la précision de la valeur affichée par les commandes qui récupèrent vos scores.",
-	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionName": "set-precision",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionOptionPrecisionDescription": "Précision. Par exemple : Entrez 1 pour une acc de 99.1, 2 pour une acc de 99.12, etc...",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsPrecisionOptionPrecisionName": "précision",
 	"PSLDiscordBot.Core.Command.Global.Settings.SettingsShowCountDescription": "Définir le nombre de scores par défaut dans /get-photo.",
