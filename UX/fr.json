@@ -236,7 +236,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.SetMemorableNoValidScore": "Vous n'avez pas de score valide avec le numéro spécifié !",
 	"PSLDiscordBot.Core.Command.Global.Normal.SetMemorableSuccess": "Le score favori a été ajouté avec succès ! Score choisi :",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresDescription": "Obtenir des scores pour une ou plusieurs musique(s) spécifiée(s).",
-	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresName": "song-scores",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresQueryResult": "Vous avez recherché la musique `{0}`, ce qui a donné...",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresQueryResultForOther": "Vous avez recherché le morceau `{0}`, affiché pour `{1.User.GlobalName}`, alias `{1.Data.UserInfo.NickName}`...",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresSongNotPlayed": "Désolé, il semble que vous n'ayez pas joué les musiques que vous avez recherchées.",
