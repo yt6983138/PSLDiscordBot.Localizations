@@ -181,7 +181,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadItemName": "file",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipDescription": "Read a random tip.",
 	"PSLDiscordBot.Core.Command.Global.Normal.CollectionSubCommandReadRandomTipName": "random-tip",
-	"PSLDiscordBot.Core.Command.Global.Normal.GetScoresName": "get-scores",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardAccuracyTitle": "Average Accuracy ({0})",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardAverageScoreTitle": "Average Score ({0})",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardChallengeFormat": "{0.Rank} {0.Level}",
