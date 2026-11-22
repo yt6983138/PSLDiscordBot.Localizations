@@ -245,7 +245,6 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.SetMemorableNoValidScore": "You do not have a valid score with the number you specified!",
 	"PSLDiscordBot.Core.Command.Global.Normal.SetMemorableSuccess": "Set memorable score successfully! Score set to: ",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresDescription": "Get scores for a specified song(s).",
-	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresName": "song-scores",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresQueryResult": "You looked for song `{0}`, showing...",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresQueryResultForOther": "You looked for song `{0}`, showing for `{1.User.GlobalName}`, aka `{1.Data.UserInfo.NickName}`...",
 	"PSLDiscordBot.Core.Command.Global.Normal.SongScoresSongNotPlayed": "Sorry, you don't seem to have played the songs you are searching for.",
