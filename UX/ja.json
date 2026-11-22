@@ -13,7 +13,6 @@
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemOptionMessageDescription": "何が起こったか教えて",
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemOptionMessageName": "メッセージ",
 	"PSLDiscordBot.Core.Command.Global.Guest.ReportProblemSuccess": "報告ありがと〜！ちゃんと記録したよ！",
-	"PSLDiscordBot.Core.Command.Global.Normal.ExportScoresName": "export-scores",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetMoneyName": "get-money",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetScoresName": "get-scores",
 	"PSLDiscordBot.Core.Command.Global.Normal.GetTimeIndexName": "get-time-index",
