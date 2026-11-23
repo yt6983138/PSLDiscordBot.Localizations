@@ -10,7 +10,7 @@
 	"PSLDiscordBot.Core.Command.Global.Account.AccountRegisterCloudOverwritten": "Vous êtes déjà inscrit, mais le lien a tout de même été établi avec succès !",
 	"PSLDiscordBot.Core.Command.Global.Account.AccountRegisterCloudSuccess": "Inscription réussie, toutes les commandes sont désormais accessibles !",
 	"PSLDiscordBot.Core.Command.Global.Account.AccountRegisterGroupDescription": "Créer un compte",
-	"PSLDiscordBot.Core.Command.Global.Account.AccountRegisterGroupName": "s'enregistrer",
+	"PSLDiscordBot.Core.Command.Global.Account.AccountRegisterGroupName": "sʼenregistrer",
 	"PSLDiscordBot.Core.Command.Global.Account.AccountRegisterLocalAlreadyRegistered": "Vous êtes déjà inscrit. Utilisez /account switch local pour passer en mode local.",
 	"PSLDiscordBot.Core.Command.Global.Account.AccountRegisterLocalDescription": "Inscrivez-vous avec une collection de scores locale, aucun compte Phigros n’est nécessaire",
 	"PSLDiscordBot.Core.Command.Global.Account.AccountRegisterLocalName": "local",
