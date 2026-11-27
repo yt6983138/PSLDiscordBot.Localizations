@@ -202,6 +202,7 @@
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardDescription": "Displays the leaderboard.",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardDiscordNameTitle": "Discord Name",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardFailedToAnalyze": "Failed to calculate your rank on leaderboard! Please do `/records list` to check if your save is good.",
+	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardLocalLegend": "* Local save: scores entered or imported by the user, not verified.",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardMoneyTitle": "Money",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardName": "leaderboard",
 	"PSLDiscordBot.Core.Command.Global.Normal.LeaderboardNicknameTitle": "Nickname",
